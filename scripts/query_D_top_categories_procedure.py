@@ -20,5 +20,10 @@ for _, item in items.scan():
 for cat, count in sales_count.items():
     if count > 100:
         top_table.put(cat.encode(), {b'summary:orders': str(count).encode()})
+with open('top_categories.csv', 'w') as f:
+    f.write('Category,Orders\n')
+    for cat, count in sales_count.items():
+        if count > 100:
+            f.write(f'{cat},{count}\n')
 
-print("Top categories inserted into top_categories table.")
+print("Top categories saved to top_categories.csv.")

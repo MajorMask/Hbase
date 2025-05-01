@@ -1,0 +1,8 @@
+Script started on Thu May  1 21:43:15 2025
+[1m[7m%[27m[1m[0m                                                                        [0m[27m[24m[J(base) mananaggarwal@Manans-Air NoSQL % [K[?2004hddocker-compose up -d[?2004l
+[33mWARN[0m[0003] /Users/mananaggarwal/NoSQL/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion 
+^Z
+zsh: suspended  docker-compose up -d
+[1m[7m%[27m[1m[0m                                                                        [0m[27m[24m[J(base) mananaggarwal@Manans-Air NoSQL % [K[?2004h[7mquery_A_view_order_details.py[27m[29D[27mq[27mu[27me[27mr[27my[27m_[27mA[27m_[27mv[27mi[27me[27mw[27m_[27mo[27mr[27md[27me[27mr[27m_[27md[27me[27mt[27ma[27mi[27ml[27ms[27m.[27mp[27my[?2004l
+zsh: command not found: query_A_view_order_details.py
+[1m[7m%[27m[1m[0m                                                                        [0m[27m[24m[J(base) mananaggarwal@Manans-Air NoSQL % [K[?2004hquery_A_view_order_details.py[29D                             [29D[7mquery_A_view_order_details.py[27m[29D[27mq[27mu[27me[27mr[27my[27m_[27mA[27m_[27mv[27mi[27me[27mw[27m_[27mo[27mr[27md[27me[27mr[27m_[27md[27me[27mt[27ma[27mi[27ml[27ms[27m.[27mp[27m                           q  
